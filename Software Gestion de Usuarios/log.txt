@@ -1,0 +1,829 @@
+2023-12-05 12:43:38 - User Created by xavi
+2023-12-05 12:43:54 - User Deleted by 
+2023-12-05 12:44:06 - User Modified by 
+2023-12-05 12:50:51 - User Modified by 
+2023-12-05 12:50:57 - User Deleted by 
+2023-12-05 12:51:26 - User Created by xavi
+2023-12-05 12:52:42 - User Created by xavi
+2023-12-05 12:52:48 - User Deleted by xavi
+2023-12-05 12:52:55 - User Modified by xavi
+2023-12-05 12:55:08 - Logging correcto by 
+2023-12-05 12:59:04 - Logging correcto by 
+2023-12-05 13:05:03 - User Modified by xavi
+2023-12-05 13:05:21 - User Created by xavi
+2023-12-05 13:05:26 - User Deleted by xavi
+2023-12-05 13:10:47 - Logging correcto by 
+2023-12-05 13:11:00 - Logging correcto by 
+2023-12-05 13:11:44 - Session cerrada by 
+2023-12-05 13:12:23 - Session cerrada by xavi
+2023-12-05 13:14:08 - Session cerrada by xavi
+2023-12-05 13:18:13 - Session cerrada by xavi
+2023-12-05 13:18:26 - Session Iniciada by xavi
+2023-12-05 13:20:26 - Session cerrada by xavi
+2023-12-05 13:20:40 - User Created by 
+2023-12-05 13:22:36 - User Created by 
+2023-12-05 13:27:14 - Session Iniciada by xavi
+2023-12-05 13:27:20 - User Deleted by xavi
+2023-12-05 13:27:23 - User Deleted by xavi
+2023-12-05 13:27:27 - User Deleted by xavi
+2023-12-05 13:27:28 - Session cerrada by xavi
+2023-12-05 13:30:08 - Session Iniciada by xavi
+2023-12-05 13:30:29 - User Created by xavi
+2023-12-05 13:30:43 - User Modified by xavi
+2023-12-05 13:30:55 - User Deleted by xavi
+2023-12-05 13:31:01 - Session cerrada by xavi
+2023-12-05 13:32:57 - Session Iniciada by luke
+2023-12-05 13:33:10 - User Created by luke
+2023-12-05 13:33:19 - User Modified by luke
+2023-12-05 13:33:22 - User Deleted by luke
+2023-12-05 13:33:23 - Session cerrada by luke
+2023-12-07 09:05:06 - Session Iniciada by xavi
+2023-12-07 09:06:27 - User Modified by xavi
+2023-12-07 09:06:35 - User Modified by xavi
+2023-12-07 09:14:18 - User Modified by xavi
+2023-12-07 09:14:23 - Session cerrada by xavi
+2023-12-07 09:17:26 - Session Iniciada by xavi
+2023-12-07 09:20:30 - Session Iniciada by xavi
+2023-12-07 09:21:13 - User Created by xavi
+2023-12-07 09:21:55 - User Created by xavi
+2023-12-07 09:26:51 - Session Iniciada by xavi
+2023-12-07 09:27:31 - User Created by xavi
+2023-12-07 09:29:46 - Session cerrada by xavi
+2023-12-07 09:30:01 - Session Iniciada by xavi
+2023-12-07 09:30:10 - User Deleted by xavi
+2023-12-07 09:30:14 - User Deleted by xavi
+2023-12-07 09:34:53 - User Created by xavi
+2023-12-07 09:35:26 - User Created by xavi
+2023-12-07 09:36:21 - User Created by xavi
+2023-12-07 09:45:14 - Session cerrada by xavi
+2023-12-07 09:45:49 - Session Iniciada by xavi
+2023-12-07 10:41:41 - User Deleted by xavi
+2023-12-07 11:03:51 - User Created by xavi
+2023-12-07 11:07:19 - Session Iniciada by xavi
+2023-12-07 11:07:33 - User Deleted by xavi
+2023-12-07 11:07:53 - User Modified by xavi
+2023-12-07 11:07:59 - User Modified by xavi
+2023-12-07 11:15:00 - User Created by xavi
+2023-12-07 11:29:24 - Session Iniciada by xavi
+2023-12-07 11:41:19 - Session cerrada by xavi
+2023-12-07 11:41:28 - Session Iniciada by xavi
+2023-12-07 11:45:24 - Session cerrada by xavi
+2023-12-07 11:45:32 - Session Iniciada by xavi
+2023-12-07 11:45:51 - Session Iniciada by xavi
+2023-12-07 11:45:58 - Session Iniciada by xavi
+2023-12-07 11:46:52 - Logging correcto by xavi
+2023-12-07 11:47:02 - Session Iniciada by xavi
+2023-12-07 11:49:47 - Session cerrada by xavi
+2023-12-07 11:49:53 - Session Iniciada by xavi
+2023-12-07 11:50:54 - Session Iniciada by xavi
+2023-12-07 11:51:18 - Session Iniciada by xavi
+2023-12-07 11:51:54 - Session cerrada by xavi
+2023-12-07 11:52:00 - Session Iniciada by xavi
+2023-12-07 11:52:43 - Session Iniciada by xavi
+2023-12-07 11:52:50 - Session Iniciada by xavi
+2023-12-07 11:54:37 - Session cerrada by xavi
+2023-12-07 11:54:45 - Session Iniciada by xavi
+2023-12-07 11:55:51 - Session Iniciada by xavi
+2023-12-07 11:58:14 - Session Iniciada by xavi
+2023-12-07 11:58:35 - Session Iniciada by xavi
+2023-12-07 11:59:07 - Session Iniciada by xavi
+2023-12-07 11:59:33 - Session Iniciada by xavi
+2023-12-07 11:59:45 - Session Iniciada by xavi
+2023-12-07 11:59:58 - Session Iniciada by xavi
+2023-12-07 12:02:52 - Session Iniciada by xavi
+2023-12-07 12:03:01 - Session Iniciada by xavi
+2023-12-07 12:03:34 - Session Iniciada by xavi
+2023-12-07 12:03:47 - Session Iniciada by xavi
+2023-12-07 12:03:57 - Session Iniciada by xavi
+2023-12-07 12:04:06 - Session Iniciada by xavi
+2023-12-07 12:07:04 - Session Iniciada by xavi
+2023-12-07 12:08:42 - Session cerrada by xavi
+2023-12-07 12:08:49 - Session Iniciada by xavi
+2023-12-07 12:09:58 - Session Iniciada by xavi
+2023-12-07 12:10:13 - Session Iniciada by xavi
+2023-12-07 12:11:43 - Session Iniciada by xavi
+2023-12-07 12:11:45 - Session Iniciada by xavi
+2023-12-07 12:11:46 - Session Iniciada by xavi
+2023-12-07 12:11:56 - Session Iniciada by xavi
+2023-12-07 12:12:21 - Session Iniciada by xavi
+2023-12-07 12:12:51 - Session Iniciada by xavi
+2023-12-07 12:13:25 - Session Iniciada by xavi
+2023-12-07 12:13:39 - Session Iniciada by xavi
+2023-12-07 12:14:07 - Session Iniciada by xavi
+2023-12-07 12:14:51 - Session Iniciada by xavi
+2023-12-07 12:14:59 - Session Iniciada by xavi
+2023-12-07 12:16:03 - Session Iniciada by xavi
+2023-12-07 12:16:42 - Session Iniciada by xavi
+2023-12-07 12:17:01 - Session Iniciada by xavi
+2023-12-07 12:18:09 - Session Iniciada by xavi
+2023-12-07 12:18:25 - Session Iniciada by xavi
+2023-12-07 12:18:32 - Session Iniciada by xavi
+2023-12-07 12:18:38 - Session Iniciada by xavi
+2023-12-07 12:19:12 - Session Iniciada by xavi
+2023-12-07 12:20:01 - Session Iniciada by xavi
+2023-12-07 12:20:20 - Session Iniciada by xavi
+2023-12-07 12:20:33 - Session Iniciada by xavi
+2023-12-07 12:20:49 - Session Iniciada by xavi
+2023-12-07 12:21:02 - Session Iniciada by xavi
+2023-12-07 12:21:24 - Session Iniciada by xavi
+2023-12-07 12:24:48 - Session cerrada by xavi
+2023-12-07 12:25:35 - Session Iniciada by xavi
+2023-12-07 12:44:06 - Session Iniciada by xavi
+2023-12-07 12:44:44 - User Deleted by xavi
+2023-12-07 12:44:51 - Session Iniciada by xavi
+2023-12-07 12:45:20 - User Deleted by xavi
+2023-12-07 12:45:25 - User Deleted by xavi
+2023-12-07 12:45:59 - User Modified by xavi
+2023-12-07 12:46:20 - Session cerrada by xavi
+2023-12-07 12:46:47 - Session Iniciada by xavi
+2023-12-07 12:46:56 - Session Iniciada by xavi
+2023-12-07 12:58:24 - User Modified by xavi
+2023-12-07 13:03:13 - Session cerrada by xavi
+2023-12-07 13:03:20 - Session Iniciada by xavi
+2023-12-07 13:03:53 - User Modified by xavi
+2023-12-07 13:04:21 - User Modified by xavi
+2023-12-07 13:04:31 - User Modified by xavi
+2023-12-07 13:04:59 - User Modified by xavi
+2023-12-07 13:06:13 - User Modified by xavi
+2023-12-07 13:06:30 - User Modified by xavi
+2023-12-07 13:06:55 - User Modified by xavi
+2023-12-07 13:07:52 - User Modified by xavi
+2023-12-07 13:10:34 - User Modified by xavi
+2023-12-07 13:12:17 - User Modified by xavi
+2023-12-07 13:13:12 - User Modified by xavi
+2023-12-07 13:19:40 - Session Iniciada by xavi
+2023-12-07 13:21:12 - Session cerrada by xavi
+2023-12-07 13:21:19 - Session Iniciada by xavi
+2023-12-07 13:22:14 - Session Iniciada by xavi
+2023-12-07 13:23:11 - Session Iniciada by xavi
+2023-12-07 13:23:30 - Session Iniciada by xavi
+2023-12-07 13:23:39 - Session Iniciada by xavi
+2023-12-07 13:24:04 - Session Iniciada by xavi
+2023-12-07 13:24:11 - Session Iniciada by xavi
+2023-12-07 13:24:15 - Session cerrada by xavi
+2023-12-07 13:24:22 - Session Iniciada by xavi
+2023-12-07 13:24:30 - Session Iniciada by xavi
+2023-12-07 13:27:25 - User Deleted by xavi
+2023-12-07 13:27:28 - User Deleted by xavi
+2023-12-07 13:27:34 - User Deleted by xavi
+2023-12-11 08:49:47 - Session Iniciada by xavi
+2023-12-11 08:52:35 - User Modified by xavi
+2023-12-11 08:56:41 - Error al registrar usuario  by 0
+2023-12-11 08:57:28 - Error al registrar usuario con el codigo by 0
+2023-12-11 08:58:28 - Error al registrar usuario con el codigo by xavi
+2023-12-11 08:59:26 - Error al registrar usuario con el codigo repetido 0 by xavi
+2023-12-11 08:59:40 - Session cerrada by xavi
+2023-12-11 09:01:58 - Session Iniciada by xavi
+2023-12-11 09:02:22 - Error al registrar usuario con el codigo repetido 45 by xavi
+2023-12-11 09:04:53 - Session cerrada by 
+2023-12-11 09:05:18 - Session cerrada by xavi
+2023-12-11 09:05:42 - Session cerrada by xavi
+2023-12-11 09:06:09 - Session Iniciada by xavi
+2023-12-11 09:06:38 - User Modified by xavi
+2023-12-11 09:08:01 - User luke Modified by xavi
+2023-12-11 09:08:30 - User Deleted by xavi
+2023-12-11 09:10:25 - Session Iniciada by xavi
+2023-12-11 09:10:31 - User Deleted by xavi
+2023-12-11 09:19:06 - Session Iniciada by xavi
+2023-12-11 09:28:52 - Session Iniciada by xavi
+2023-12-11 09:33:48 - Session Iniciada by xavi
+2023-12-11 09:34:14 - Session Iniciada by xavi
+2023-12-11 09:34:46 - Session Iniciada by xavi
+2023-12-11 09:42:11 - Session Iniciada by xavi
+2023-12-11 09:46:42 - Session Iniciada by xavi
+2023-12-11 09:49:37 - Session Iniciada by xavi
+2023-12-11 09:50:06 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 09:52:48 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 09:53:01 - Error al registrar usuario con el codigo repetido ABCDEui by xavi
+2023-12-11 09:53:45 - Session Iniciada by xavi
+2023-12-11 09:53:56 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 09:54:53 - Session Iniciada by xavi
+2023-12-11 09:55:01 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 09:55:46 - Session Iniciada by xavi
+2023-12-11 09:56:10 - Session Iniciada by xavi
+2023-12-11 09:59:53 - Session Iniciada by xavi
+2023-12-11 10:01:57 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 10:02:48 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 10:03:26 - Error al registrar usuario con el codigo repetido ABCDE by xavi
+2023-12-11 10:05:49 - Session Iniciada by xavi
+2023-12-11 10:08:44 - User Created by xavi
+2023-12-11 10:10:10 - User Created by xavi
+2023-12-11 10:15:13 - User Created by xavi
+2023-12-11 10:15:24 - User Deleted by xavi
+2023-12-11 10:17:23 - User Deleted by xavi
+2023-12-11 10:20:47 - Session Iniciada by xavi
+2023-12-11 10:23:35 - Session Iniciada by xavi
+2023-12-11 10:29:53 - Session Iniciada by xavi
+2023-12-11 10:31:31 - User jhkjh Modified by xavi
+2023-12-11 10:50:45 - Session Iniciada by xavi
+2023-12-11 10:59:38 - Session Iniciada by xavi
+2023-12-11 11:16:38 - User kljklk Modified by xavi
+2023-12-11 11:17:17 - User xavi Modified by xavi
+2023-12-11 11:17:33 - User Deleted by xavi
+2023-12-11 11:17:36 - User Deleted by xavi
+2023-12-11 11:17:40 - User Deleted by xavi
+2023-12-11 11:17:43 - User Deleted by xavi
+2023-12-11 11:17:47 - User Deleted by xavi
+2023-12-11 11:20:10 - User kljklk Modified by xavi
+2023-12-11 11:20:13 - User kljklk Modified by xavi
+2023-12-11 11:26:45 - User kljklk Modified by xavi
+2023-12-11 11:26:57 - User xavi2 Modified by xavi
+2023-12-11 11:27:13 - Session cerrada by xavi
+2023-12-11 11:27:19 - Error al iniciar sesion by xavi2
+2023-12-11 11:27:39 - Session Iniciada by xavi
+2023-12-11 11:29:33 - Session Iniciada by xavi
+2023-12-11 11:30:00 - Session Iniciada by xavi
+2023-12-11 11:30:22 - Session Iniciada by xavi
+2023-12-11 11:31:04 - Session Iniciada by xavi
+2023-12-11 11:33:51 - Session cerrada by xavi
+2023-12-11 11:33:58 - Error al iniciar sesion by xavi2
+2023-12-11 11:34:09 - Session Iniciada by xavi
+2023-12-11 11:34:25 - User xavi2 Modified by xavi
+2023-12-11 11:34:29 - Session cerrada by xavi
+2023-12-11 11:34:35 - Error al iniciar sesion by xavi2
+2023-12-11 11:35:05 - Session Iniciada by xavi
+2023-12-11 11:35:24 - User xavi2 Modified by xavi
+2023-12-11 11:35:54 - Session cerrada by xavi
+2023-12-11 11:36:01 - Session Iniciada by xavi2
+2023-12-11 11:36:57 - Session cerrada by xavi2
+2023-12-11 11:37:02 - Session Iniciada by xavi
+2023-12-11 11:39:39 - Session Iniciada by xavi
+2023-12-11 11:39:45 - Session cerrada by xavi
+2023-12-11 11:40:57 - Session Iniciada by xavi
+2023-12-11 11:41:25 - User xavi33 Modified by xavi
+2023-12-11 11:41:42 - Session cerrada by xavi
+2023-12-11 11:41:52 - Session Iniciada by xavi
+2023-12-11 11:41:58 - User xavi33 Modified by xavi
+2023-12-11 11:42:00 - Session cerrada by xavi
+2023-12-11 11:42:06 - Session Iniciada by xavi
+2023-12-11 11:42:15 - Session cerrada by xavi
+2023-12-11 11:42:25 - Session Iniciada by xavi33
+2023-12-11 11:44:13 - Session cerrada by xavi33
+2023-12-11 11:44:21 - Session Iniciada by xavi33
+2023-12-11 11:48:15 - Session Iniciada by xavi33
+2023-12-11 11:48:53 - Session cerrada by xavi33
+2023-12-11 11:49:03 - Session Iniciada by xavi33
+2023-12-11 11:51:15 - Session cerrada by xavi33
+2023-12-11 11:51:22 - Session Iniciada by xavi
+2023-12-11 11:53:13 - Session cerrada by xavi
+2023-12-11 11:53:19 - Session Iniciada by xavip
+2023-12-11 11:53:30 - User xavip Modified by xavip
+2023-12-11 11:54:21 - Error al registrar usuario con el código repetido 46576 by xavip
+2023-12-11 11:54:31 - Session cerrada by xavip
+2023-12-11 11:54:36 - Session Iniciada by xavi
+2023-12-11 11:54:52 - User Created by xavi
+2023-12-11 11:55:13 - User luke Modified by xavi
+2023-12-11 11:55:16 - Session cerrada by xavi
+2023-12-11 11:55:24 - Session Iniciada by luke
+2023-12-11 11:56:55 - Session Iniciada by xavi
+2023-12-11 12:04:47 - Session cerrada by xavi
+2023-12-11 12:04:54 - Session Iniciada by xavi
+2023-12-11 12:21:02 - Session cerrada by xavi
+2023-12-11 12:21:10 - Session Iniciada by pac
+2023-12-11 12:22:19 - Session Iniciada by pac
+2023-12-11 12:48:33 - Session cerrada by pac
+2023-12-11 12:48:39 - Session Iniciada by xavi
+2023-12-11 12:50:07 - Error al iniciar sesion by xavi
+2023-12-11 12:50:31 - Session Iniciada by xavi
+2023-12-11 12:56:35 - Session cerrada by xavi
+2023-12-11 12:56:41 - Session Iniciada by xavi
+2023-12-11 12:58:15 - Session cerrada by xavi
+2023-12-11 12:58:22 - Session Iniciada by xavi
+2023-12-11 13:04:19 - Session cerrada by xavi
+2023-12-11 13:04:29 - Session Iniciada by xavi
+2023-12-11 13:04:40 - Session cerrada by xavi
+2023-12-11 13:04:46 - Session Iniciada by pac
+2023-12-11 13:09:13 - Session cerrada by pac
+2023-12-11 13:12:37 - Session Iniciada by xavi
+2023-12-11 13:12:42 - Session cerrada by xavi
+2023-12-11 13:22:45 - Session Iniciada by xavi
+2023-12-11 13:28:29 - Session Iniciada by xavi
+2023-12-12 09:02:19 - Session Iniciada by xavi
+2023-12-12 09:02:39 - User Deleted by xavi
+2023-12-12 09:44:13 - Session Iniciada by xavi
+2023-12-12 09:44:19 - Session cerrada por  by xavi
+2023-12-12 09:57:43 - Session Iniciada by xavi
+2023-12-12 09:57:55 - User Deleted by xavi
+2023-12-12 09:58:18 - User xavip Modified by xavi
+2023-12-12 09:58:32 - Session cerrada por  by xavi
+2023-12-12 09:59:02 - User Created by 
+2023-12-12 10:01:43 - Session Iniciada by xavi
+2023-12-12 10:02:06 - User luis Created by by xavi
+2023-12-12 10:28:24 - Session cerrada por  by xavi
+2023-12-12 10:28:31 - Session Iniciada by xavi
+2023-12-12 10:29:13 - Session cerrada por  by xavi
+2023-12-12 10:29:33 - Session Iniciada by xavi
+2023-12-12 10:33:40 - User Deleted by xavi
+2023-12-12 11:07:11 - Session Iniciada by xavi
+2023-12-12 11:08:16 - Session cerrada por  by xavi
+2023-12-12 11:16:15 - Error al iniciar sesion by xavi
+2023-12-12 11:16:20 - Session Iniciada by xavi
+2023-12-12 11:16:23 - Session cerrada por  by xavi
+2023-12-12 11:25:31 - Session Iniciada by xavi
+2023-12-12 11:36:15 - Session cerrada por  by xavi
+2023-12-12 11:39:02 - Session Iniciada by xavi
+2023-12-12 11:39:42 - User lucas Created  by xavi
+2023-12-12 11:39:46 - Session cerrada por  by xavi
+2023-12-12 11:39:54 - Session Iniciada by lucas
+2023-12-12 11:40:19 - Session cerrada por  by lucas
+2023-12-12 11:41:03 - Session Iniciada by lucas
+2023-12-12 11:41:07 - Session cerrada por  by lucas
+2023-12-12 11:41:24 - User pepe Created  by 
+2023-12-12 11:41:30 - Session Iniciada by pepe
+2023-12-12 11:46:27 - Session Iniciada by xavi
+2023-12-12 11:53:57 - Session cerrada por  by xavi
+2023-12-12 11:54:02 - Session Iniciada by xavi
+2023-12-12 12:00:05 - Session cerrada por  by xavi
+2023-12-12 12:00:16 - Session Iniciada by xavi
+2023-12-12 12:00:30 - Session cerrada por  by xavi
+2023-12-12 12:00:36 - Session Iniciada by xavi
+2023-12-12 12:11:45 - Session cerrada por  by xavi
+2023-12-12 12:11:55 - Session Iniciada by xavi
+2023-12-12 12:27:55 - Session cerrada por  by xavi
+2023-12-12 12:28:01 - Session Iniciada by xavi
+2023-12-12 12:30:02 - Session cerrada por  by xavi
+2023-12-12 13:13:47 - Error al iniciar sesion by xaviproton
+2023-12-13 09:05:24 - Session Iniciada by xavi
+2023-12-13 09:36:23 - Session Iniciada by xavi
+2023-12-13 09:36:45 - User palpatinn Created  by xavi
+2023-12-13 09:37:38 - User Deleted by xavi
+2023-12-13 09:37:42 - User Deleted by xavi
+2023-12-13 09:37:46 - User Deleted by xavi
+2023-12-13 09:37:49 - User Deleted by xavi
+2023-12-13 09:43:58 - Session Iniciada by xavi
+2023-12-13 09:56:46 - Session Iniciada by xavi
+2023-12-13 09:57:06 - User palp Created  by xavi
+2023-12-13 09:57:35 - User jkgjg Created  by xavi
+2023-12-13 10:01:48 - User ikjio Created  by xavi
+2023-12-13 10:06:35 - Session Iniciada by xavi
+2023-12-13 10:30:24 - Session Iniciada by xavi
+2023-12-13 10:31:15 - Error al ingresar la contraseña by xavi
+2023-12-13 10:31:22 - Session Iniciada by xavi
+2023-12-13 10:31:34 - Error al ingresar la contraseña by xavi
+2023-12-13 10:32:14 - User jkhkj Created  by xavi
+2023-12-13 10:35:01 - Session Iniciada by xavi
+2023-12-13 10:35:11 - Error al ingresar la contraseña by xavi
+2023-12-13 10:35:25 - User ytry Created  by xavi
+2023-12-13 10:37:56 - User Deleted by xavi
+2023-12-13 10:38:38 - Session cerrada por  by xavi
+2023-12-13 10:44:36 - Session Iniciada by xavi
+2023-12-13 10:45:01 - Session cerrada por  by xavi
+2023-12-13 10:45:09 - Error al iniciar sesion by xavio
+2023-12-13 10:50:30 - Error al iniciar sesion by xavi
+2023-12-13 10:51:54 - Error al iniciar sesion by xavi
+2023-12-13 10:52:21 - Session Iniciada by xavi
+2023-12-13 10:52:26 - Session cerrada por  by xavi
+2023-12-13 10:57:10 - Error al iniciar sesion by xavi
+2023-12-13 11:07:50 - Session Iniciada by xavi
+2023-12-13 11:07:56 - Session cerrada por  by xavi
+2023-12-13 11:08:02 - Error al iniciar sesion by xavi
+2023-12-13 11:14:01 - Session Iniciada by xavi
+2023-12-13 11:14:05 - Session cerrada por  by xavi
+2023-12-13 11:14:10 - Error al iniciar sesion by xavi
+2023-12-13 11:16:36 - Session Iniciada by xavi
+2023-12-13 11:17:01 - Error al ingresar la contraseña by xavi
+2023-12-13 11:17:14 - Error al registrar usuario con el código repetido 56579 by xavi
+2023-12-13 11:17:34 - Error al registrar usuario con el código repetido 56579 by xavi
+2023-12-13 11:17:49 - Error al registrar usuario con el código repetido 76579 by xavi
+2023-12-13 11:18:20 - User johjk Created  by xavi
+2023-12-13 11:34:35 - Session cerrada por  by xavi
+2023-12-13 11:34:42 - Session Iniciada by xavi
+2023-12-13 11:37:21 - Session Iniciada by xavi
+2023-12-13 11:37:35 - Error al registrar usuario con el código repetido  by xavi
+2023-12-13 11:38:22 - Error al registrar usuario con el código repetido  by xavi
+2023-12-13 11:38:59 - Error al registrar usuario con el código repetido 56579 by xavi
+2023-12-13 11:39:09 - User Deleted by xavi
+2023-12-13 11:39:13 - User Deleted by xavi
+2023-12-13 11:39:17 - User Deleted by xavi
+2023-12-13 11:39:19 - User Deleted by xavi
+2023-12-13 11:39:20 - User Deleted by xavi
+2023-12-13 11:39:21 - User Deleted by xavi
+2023-12-13 11:39:24 - User Deleted by xavi
+2023-12-13 11:39:34 - User fdfs Created  by xavi
+2023-12-13 11:40:50 - Session cerrada por  by xavi
+2023-12-13 11:40:55 - Session Iniciada by xavi
+2023-12-13 11:42:09 - Session Iniciada by xavi
+2023-12-13 11:47:00 - Session Iniciada by xavi
+2023-12-13 11:49:09 - Session Iniciada by xavi
+2023-12-13 11:52:00 - User fdfs Modified by xavi
+2023-12-13 11:52:28 - Session cerrada por  by xavi
+2023-12-13 11:55:16 - Session Iniciada by xavi
+2023-12-13 12:05:48 - User xaviprueba Created  by xavi
+2023-12-13 12:05:51 - Session cerrada por  by xavi
+2023-12-13 12:05:58 - Session Iniciada by xaviprueba
+2023-12-13 12:07:05 - Session cerrada por  by xaviprueba
+2023-12-13 12:07:13 - Session Iniciada by xavi
+2023-12-13 12:08:24 - Session cerrada por  by xavi
+2023-12-13 12:08:33 - Session Iniciada by xaviprueba
+2023-12-13 12:20:26 - Session cerrada por  by xaviprueba
+2023-12-13 12:20:34 - Session Iniciada by xavi
+2023-12-13 12:20:53 - User xavip Modified by xavi
+2023-12-13 12:20:58 - Session cerrada por  by xavi
+2023-12-13 12:21:03 - Session Iniciada by xavip
+2023-12-13 12:21:55 - Session cerrada por  by xavip
+2023-12-13 12:22:01 - Session Iniciada by xaviprueba
+2023-12-13 12:29:39 - Session cerrada por  by xaviprueba
+2023-12-13 12:29:45 - Session Iniciada by xavi
+2023-12-13 12:30:26 - Session cerrada por  by xavi
+2023-12-13 12:30:31 - Session Iniciada by xavip
+2023-12-13 12:33:25 - Session cerrada por  by xavip
+2023-12-13 12:33:29 - Session Iniciada by xavi
+2023-12-13 12:33:39 - User Deleted by xavi
+2023-12-13 12:50:25 - Session cerrada por  by xavi
+2023-12-13 12:50:44 - Session Iniciada by xavi
+2023-12-13 12:53:52 - User Deleted by xavi
+2023-12-13 12:54:57 - Session Iniciada by xavi
+2023-12-13 12:55:03 - User Deleted by xavi
+2023-12-13 13:13:59 - User Deleted by xavi
+2023-12-13 13:14:51 - User palpatine Created  by xavi
+2023-12-13 13:15:05 - Session cerrada por  by xavi
+2023-12-13 13:15:12 - Session Iniciada by palpatine
+2023-12-13 13:25:25 - Session cerrada por  by palpatine
+2023-12-14 09:15:07 - Session Iniciada by xavi
+2023-12-14 09:16:31 - Session cerrada por  by xavi
+2023-12-14 09:16:46 - Session Iniciada by xavi
+2023-12-14 09:17:27 - User jordi Created  by xavi
+2023-12-14 09:18:55 - User gfhf Created  by xavi
+2023-12-14 09:19:12 - User hfghf Created  by xavi
+2023-12-14 09:19:18 - User gfhf Created  by xavi
+2023-12-14 09:19:25 - User iulu Created  by xavi
+2023-12-14 09:19:42 - Session cerrada por  by xavi
+2023-12-14 09:19:50 - Session Iniciada by jordi
+2023-12-14 09:38:41 - Session cerrada por  by jordi
+2023-12-14 09:38:50 - Session Iniciada by xavi
+2023-12-14 09:53:00 - Session cerrada por  by xavi
+2023-12-14 11:11:01 - Error al iniciar sesion by xavi
+2023-12-14 11:11:06 - Session Iniciada by xavi
+2023-12-14 11:14:58 - User fsdf Created  by xavi
+2023-12-14 11:23:33 - Session Iniciada by xavi
+2023-12-14 11:28:27 - Session Iniciada by xavi
+2023-12-14 11:44:52 - Session Iniciada by xavi
+2023-12-14 11:55:29 - Session cerrada por  by xavi
+2023-12-14 11:55:36 - Session Iniciada by xavi
+2023-12-14 12:05:28 - User xavi Modified by xavi
+2023-12-14 12:33:42 - Session Iniciada by xavi
+2023-12-14 12:33:58 - Session cerrada por  by xavi
+2023-12-14 12:35:20 - Session Iniciada by xavi
+2023-12-14 12:42:58 - Session cerrada por  by xavi
+2023-12-14 12:43:06 - Session Iniciada by xavi
+2023-12-14 13:13:28 - User Deleted by xavi
+2023-12-14 13:13:30 - User Deleted by xavi
+2023-12-14 13:27:47 - Session Iniciada by xavi
+2023-12-14 13:27:47 - Session Iniciada by xavi
+2023-12-14 13:27:47 - Session Iniciada by xavi
+2023-12-14 13:28:48 - Session Iniciada by xavi
+2023-12-15 08:59:37 - Session Iniciada by xavi
+2023-12-15 09:27:21 - Session Iniciada by xavi
+2023-12-15 09:44:35 - User hfghf Modified by xavi
+2023-12-15 10:04:25 - User hfghf Modified by xavi
+2023-12-15 10:07:19 - User hfghf Modified by xavi
+2023-12-15 10:18:05 - User Deleted by xavi
+2023-12-15 10:55:06 - Session cerrada por  by xavi
+2023-12-15 10:58:51 - Error al iniciar sesion by xavi
+2023-12-15 10:59:18 - Session Iniciada by xavi
+2023-12-15 10:59:49 - User sdkjfdklsjdf Created  by xavi
+2023-12-15 10:59:59 - Error al ingresar la contraseña by xavi
+2023-12-15 11:00:10 - User fsdfs Created  by xavi
+2023-12-15 11:10:39 - User palpatine Modified by xavi
+2023-12-15 11:10:42 - Session cerrada por  by xavi
+2023-12-15 11:10:49 - Session Iniciada by palpatine
+2023-12-15 11:11:42 - Session cerrada por  by palpatine
+2023-12-15 11:11:50 - Session Iniciada by xavi
+2023-12-15 11:12:54 - User fsdfs Modified by xavi
+2023-12-15 11:17:35 - Session Iniciada by xavi
+2023-12-15 11:22:07 - User hfghf Modified by xavi
+2023-12-15 11:22:41 - User sdkjfdklsjdf Modified by xavi
+2023-12-15 11:25:19 - User palpatine Modified by xavi
+2023-12-15 11:25:29 - User hfghf Modified by xavi
+2023-12-15 11:35:30 - User hfghf Modified by xavi
+2023-12-15 11:35:37 - Session cerrada por  by xavi
+2023-12-15 11:35:43 - Session Iniciada by xavi
+2023-12-15 11:36:00 - User hfghf Modified by xavi
+2023-12-15 12:12:44 - Session cerrada por  by xavi
+2023-12-15 12:13:04 - Session Iniciada by xavi
+2023-12-15 12:14:11 - Session Iniciada by xavi
+2023-12-15 12:14:11 - Session Iniciada by xavi
+2023-12-15 12:14:11 - Session Iniciada by xavi
+2023-12-15 12:15:25 - User Deleted by xavi
+2023-12-15 12:15:28 - User Deleted by xavi
+2023-12-15 12:15:30 - User Deleted by xavi
+2023-12-15 12:15:34 - User Deleted by xavi
+2023-12-15 12:15:36 - User Deleted by xavi
+2023-12-15 12:15:38 - User Deleted by xavi
+2023-12-15 12:18:18 - User palpatine Created  by xavi
+2023-12-15 12:18:49 - User leia Created  by xavi
+2023-12-15 12:19:02 - User asdassd Created  by xavi
+2023-12-15 12:19:13 - User asdasd Created  by xavi
+2023-12-15 12:19:26 - User asdad Created  by xavi
+2023-12-15 12:19:46 - Error al ingresar la contraseña by xavi
+2023-12-15 12:19:58 - User asdasd Created  by xavi
+2023-12-15 12:20:18 - User luke Created  by xavi
+2023-12-15 12:21:18 - User organa Created  by xavi
+2023-12-15 12:21:20 - Session cerrada por  by xavi
+2023-12-15 12:21:27 - Session Iniciada by organa
+2023-12-15 12:30:18 - Session cerrada por  by organa
+2023-12-15 12:30:23 - Session Iniciada by xavi
+2023-12-15 12:33:12 - User leia Modified by xavi
+2023-12-15 12:33:23 - User leia Modified by xavi
+2023-12-15 12:33:25 - Session cerrada por  by xavi
+2023-12-15 12:33:31 - Session Iniciada by leia
+2023-12-15 12:35:14 - Error al ingresar la contraseña by leia
+2023-12-15 12:35:29 - Session Iniciada by xavi
+2023-12-15 12:48:12 - Session cerrada por  by xavi
+2023-12-15 12:48:18 - Session Iniciada by xavi
+2023-12-15 12:48:35 - User jkljkpl Created  by xavi
+2023-12-15 13:00:56 - Session cerrada por  by xavi
+2023-12-15 13:01:01 - Session Iniciada by xavi
+2023-12-15 13:01:08 - User asdasd Modified by xavi
+2023-12-15 13:01:17 - Session cerrada por  by xavi
+2023-12-15 13:01:24 - Session Iniciada by leia
+2023-12-15 13:01:37 - Session cerrada por  by leia
+2023-12-15 13:01:44 - Session Iniciada by xavi
+2023-12-15 13:04:27 - Session Iniciada by xavi
+2023-12-15 13:05:55 - Session Iniciada by xavi
+2023-12-15 13:06:15 - Session Iniciada by xavi
+2023-12-15 13:06:35 - Session Iniciada by xavi
+2023-12-15 13:08:31 - Session Iniciada by xavi
+2023-12-15 13:08:32 - Session Iniciada by xavi
+2023-12-15 13:08:35 - Session Iniciada by xavi
+2023-12-15 13:08:46 - Session Iniciada by xavi
+2023-12-15 13:11:29 - Session cerrada por  by xavi
+2023-12-15 13:12:38 - Session Iniciada by xavi
+2023-12-15 13:13:04 - User dasdas Created  by xavi
+2023-12-15 13:13:10 - Session cerrada por  by xavi
+2023-12-15 13:13:15 - Session Iniciada by leia
+2023-12-15 13:13:24 - User xavi Modified by leia
+2023-12-15 13:13:39 - Session cerrada por  by leia
+2023-12-15 13:13:45 - Session Iniciada by leia
+2023-12-15 13:14:02 - User palpatine Modified by leia
+2023-12-15 13:27:28 - Session cerrada por  by leia
+2023-12-15 13:27:36 - Session Iniciada by xavi
+2023-12-15 13:28:29 - Session cerrada por  by xavi
+2023-12-15 13:28:37 - Session Iniciada by xavi
+2023-12-15 13:28:43 - Session cerrada por  by xavi
+2023-12-15 13:28:51 - Session Iniciada by xavi
+2023-12-15 13:28:56 - User asdasd Modified by xavi
+2023-12-15 13:29:47 - Session Iniciada by leia
+2023-12-15 13:30:11 - User palpatine Modified by leia
+2023-12-18 09:01:03 - Session Iniciada by xavi
+2023-12-18 09:01:13 - User organa Modified by xavi
+2023-12-18 09:04:06 - Session cerrada por  by xavi
+2023-12-18 09:04:13 - Session Iniciada by xavi
+2023-12-18 09:04:23 - User organa Modified by xavi
+2023-12-18 09:04:34 - User asdass Modified by xavi
+2023-12-18 09:04:41 - Session cerrada por  by xavi
+2023-12-18 09:04:49 - Session Iniciada by leia
+2023-12-18 09:04:56 - User organa Modified by leia
+2023-12-18 09:04:59 - User asdassd Modified by leia
+2023-12-18 09:05:06 - Session cerrada por  by leia
+2023-12-18 09:05:11 - Session Iniciada by xavi
+2023-12-18 09:05:30 - User luke2 Modified by xavi
+2023-12-18 09:05:56 - User luke Modified by xavi
+2023-12-18 09:06:15 - User asdassd Modified by xavi
+2023-12-18 09:07:15 - User Deleted by xavi
+2023-12-18 09:07:30 - User asluke Modified by xavi
+2023-12-18 09:09:34 - User organa Modified by xavi
+2023-12-18 09:10:56 - User luke Modified by xavi
+2023-12-18 09:11:10 - Session cerrada por  by xavi
+2023-12-18 09:11:17 - Session Iniciada by leia
+2023-12-18 09:11:29 - User loi Modified by leia
+2023-12-18 09:19:07 - Session cerrada por  by leia
+2023-12-18 09:19:13 - Session Iniciada by xavi
+2023-12-18 09:19:29 - User luke Modified by xavi
+2023-12-18 09:19:57 - User leia Modified by xavi
+2023-12-18 09:21:03 - User luke2 Modified by xavi
+2023-12-18 09:23:14 - User luke Modified by xavi
+2023-12-18 09:24:01 - User lukee Modified by xavi
+2023-12-18 09:27:07 - Session Iniciada by xavi
+2023-12-18 09:27:17 - User luje Modified by xavi
+2023-12-18 09:58:25 - Session Iniciada by xavi
+2023-12-18 09:58:45 - User skywalker Modified by xavi
+2023-12-18 09:59:02 - User skywalker Modified by xavi
+2023-12-18 09:59:13 - User skywalker Modified by xavi
+2023-12-18 09:59:18 - Session cerrada por  by xavi
+2023-12-18 09:59:23 - Error al iniciar sesion by skywalker
+2023-12-18 09:59:31 - Error al iniciar sesion by skywalker
+2023-12-18 09:59:35 - Session Iniciada by xavi
+2023-12-18 10:01:53 - User asdasd Modified by xavi
+2023-12-18 10:02:06 - User skywalker Modified by xavi
+2023-12-18 10:02:23 - Session cerrada por  by xavi
+2023-12-18 10:02:30 - Session Iniciada by skywalker
+2023-12-18 10:02:39 - Session cerrada por  by skywalker
+2023-12-18 10:05:59 - Session Iniciada by leia
+2023-12-18 10:06:16 - User skywalker2 Modified by leia
+2023-12-18 10:06:46 - User palpatine Modified by leia
+2023-12-18 10:07:08 - Session cerrada por  by leia
+2023-12-18 10:07:15 - Session Iniciada by xavi
+2023-12-18 10:13:20 - Session cerrada por  by xavi
+2023-12-18 10:14:45 - Session Iniciada by xavi
+2023-12-18 10:16:36 - Session Iniciada by xavi
+2023-12-18 10:16:41 - Session cerrada por  by xavi
+2023-12-18 10:16:49 - Session Iniciada by xavi
+2023-12-18 10:19:32 - Session Iniciada by xavi
+2023-12-18 10:19:52 - Session Iniciada by xavi
+2023-12-18 10:21:36 - Session Iniciada by xavi
+2023-12-18 10:24:12 - Session cerrada por  by xavi
+2023-12-18 10:24:18 - Session Iniciada by xavi
+2023-12-18 10:24:32 - Session Iniciada by xavi
+2023-12-18 10:25:08 - Session Iniciada by xavi
+2023-12-18 10:25:15 - Session Iniciada by xavi
+2023-12-18 10:25:22 - Session Iniciada by xavi
+2023-12-18 10:26:19 - Session cerrada por  by xavi
+2023-12-18 10:26:25 - Session Iniciada by xavi
+2023-12-18 10:37:53 - Session cerrada por  by xavi
+2023-12-18 10:38:00 - Session Iniciada by xavi
+2023-12-18 10:38:06 - User luke Modified by xavi
+2023-12-18 10:38:22 - User palpatine Modified by xavi
+2023-12-18 10:44:09 - Session cerrada por  by xavi
+2023-12-18 10:44:15 - Session Iniciada by xavi
+2023-12-18 10:44:20 - User leia Modified by xavi
+2023-12-18 10:44:26 - Session cerrada por  by xavi
+2023-12-18 10:44:31 - Session Iniciada by leia
+2023-12-18 10:57:59 - Session cerrada por  by leia
+2023-12-18 11:11:08 - Session Iniciada by xavi
+2023-12-18 11:19:45 - Session cerrada por  by xavi
+2023-12-18 11:19:52 - Session Iniciada by xavi
+2023-12-18 11:19:59 - Session cerrada por  by xavi
+2023-12-18 11:20:03 - Session Iniciada by leia
+2023-12-18 11:20:13 - Session cerrada por  by leia
+2023-12-18 11:20:18 - Session Iniciada by skywalker2
+2023-12-18 11:20:24 - Session cerrada por  by skywalker2
+2023-12-18 11:21:59 - Session Iniciada by xavi
+2023-12-18 11:22:57 - Session cerrada por  by xavi
+2023-12-18 11:25:56 - Error al iniciar sesion by jhk
+2023-12-18 11:27:31 - Error al iniciar sesion by dfh564
+2023-12-18 11:30:35 - Error al iniciar sesion by drstgfs56465
+2023-12-18 11:34:48 - Session Iniciada by xavi
+2023-12-18 11:35:09 - User leia2 Modified by xavi
+2023-12-18 11:35:26 - Session cerrada por  by xavi
+2023-12-18 11:35:32 - Session Iniciada by palpatine
+2023-12-18 11:35:40 - Session cerrada por  by palpatine
+2023-12-18 11:35:50 - Session Iniciada by palpatine
+2023-12-18 11:36:01 - Session cerrada por  by palpatine
+2023-12-18 11:36:11 - Session Iniciada by leia2
+2023-12-18 11:36:35 - Session cerrada por  by leia2
+2023-12-18 13:14:04 - Session Iniciada by xavi
+2023-12-18 13:14:17 - User Deleted by xavi
+2023-12-18 13:14:36 - User leia2 Modified by xavi
+2023-12-18 13:14:40 - User Deleted by xavi
+2023-12-18 13:14:43 - User Deleted by xavi
+2023-12-18 13:14:45 - User Deleted by xavi
+2023-12-18 13:14:47 - User Deleted by xavi
+2023-12-18 13:14:50 - User Deleted by xavi
+2023-12-18 13:14:56 - Session cerrada por  by xavi
+2023-12-18 13:19:22 - Session Iniciada by xavi
+2023-12-18 13:21:19 - Session cerrada por  by xavi
+2023-12-18 13:21:28 - Session Iniciada by leia2
+2023-12-18 13:21:44 - Session cerrada por  by leia2
+2023-12-19 09:47:51 - Session Iniciada by xavi
+2023-12-19 09:48:07 - User skywalker2 Modified by xavi
+2023-12-19 13:28:21 - Session Iniciada by xavi
+2023-12-20 09:11:20 - Session Iniciada by xavi
+2023-12-20 09:58:12 - Error al intentar crear una copia de la BD by 
+2023-12-20 09:58:53 - Error al intentar crear una copia de la BD by 
+2023-12-20 09:59:53 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:02:47 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:02:58 - Copia de la BD realitzada by 
+2023-12-20 10:03:06 - Copia de la BD realitzada by 
+2023-12-20 10:19:49 - Copia de la BD realitzada by 
+2023-12-20 10:20:15 - Copia de la BD realitzada by 
+2023-12-20 10:20:50 - Copia de la BD realitzada by 
+2023-12-20 10:21:38 - Copia de la BD realitzada by 
+2023-12-20 10:24:26 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:24:50 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:25:00 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:27:48 - Error al intentar crear una copia de la BD by 
+2023-12-20 10:32:15 - Copia de la BD realitzada by 
+2023-12-20 10:42:49 - Copia de la BD realitzada by 
+2023-12-20 10:44:52 - Copia de la BD realitzada by 
+2023-12-20 10:49:23 - Copia de la BD realitzada by xavi
+2023-12-20 10:50:49 - Copia de la BD realitzada by xavi
+2023-12-20 10:52:35 - Copia de la BD realitzada by xavi
+2023-12-20 11:43:17 - Copia de la BD realitzada by xavi
+2023-12-20 11:43:20 - Copia de la BD realitzada by xavi
+2023-12-21 08:58:55 - Session Iniciada by xavi
+2023-12-21 10:46:37 - Copia de la BD restaurada by xavi
+2023-12-21 10:46:46 - Copia de la BD restaurada by xavi
+2023-12-21 10:50:48 - Copia de la BD restaurada by xavi
+2023-12-21 10:51:05 - Copia de la BD restaurada by xavi
+2023-12-21 10:51:48 - User Deleted by xavi
+2023-12-21 10:51:51 - User Deleted by xavi
+2023-12-21 10:51:57 - Copia de la BD realitzada by xavi
+2023-12-21 10:58:06 - Copia de la BD restaurada by xavi
+2023-12-21 10:59:06 - Copia de la BD restaurada by xavi
+2023-12-21 10:59:35 - Copia de la BD restaurada by xavi
+2023-12-21 11:00:30 - User lñkñl Created  by xavi
+2023-12-21 11:06:49 - User ñlkñl Created  by xavi
+2023-12-21 11:06:59 - Copia de la BD realitzada by xavi
+2023-12-21 11:07:22 - Copia de la BD restaurada by xavi
+2023-12-21 11:11:38 - Copia de la BD restaurada by xavi
+2023-12-21 11:11:53 - Copia de la BD restaurada by xavi
+2023-12-21 11:12:46 - Copia de la BD restaurada by xavi
+2023-12-21 11:13:18 - Copia de la BD restaurada by xavi
+2023-12-21 11:16:59 - Copia de la BD restaurada by xavi
+2023-12-21 11:17:12 - Copia de la BD restaurada by xavi
+2023-12-21 11:17:23 - User Deleted by xavi
+2023-12-21 11:17:25 - User Deleted by xavi
+2023-12-21 11:18:39 - Copia de la BD restaurada by xavi
+2023-12-21 11:19:05 - Copia de la BD restaurada by xavi
+2023-12-21 11:23:01 - Copia de la BD restaurada by xavi
+2023-12-21 11:23:13 - Copia de la BD realitzada by xavi
+2023-12-21 11:23:26 - User op Created  by xavi
+2023-12-21 11:23:37 - Copia de la BD restaurada by xavi
+2023-12-21 11:23:43 - Copia de la BD restaurada by xavi
+2023-12-21 11:23:51 - Copia de la BD restaurada by xavi
+2023-12-21 11:34:02 - Copia de la BD restaurada by xavi
+2023-12-21 11:34:18 - Copia de la BD restaurada by xavi
+2023-12-21 11:35:09 - Copia de la BD restaurada by xavi
+2023-12-21 11:35:58 - Copia de la BD restaurada by xavi
+2023-12-21 11:38:16 - Copia de la BD restaurada by xavi
+2023-12-21 11:38:39 - Copia de la BD restaurada by xavi
+2023-12-21 11:38:44 - Copia de la BD restaurada by xavi
+2023-12-21 11:38:48 - Copia de la BD restaurada by xavi
+2023-12-21 11:39:32 - Copia de la BD restaurada by xavi
+2023-12-21 11:39:40 - Copia de la BD restaurada by xavi
+2023-12-21 11:40:08 - Copia de la BD restaurada by xavi
+2023-12-21 11:42:27 - Copia de la BD restaurada by xavi
+2023-12-21 12:06:31 - Copia de la BD restaurada by xavi
+2023-12-21 12:33:03 - Copia de la BD restaurada by xavi
+2023-12-21 12:40:42 - Copia de la BD restaurada by xavi
+2023-12-21 12:40:55 - User Deleted by xavi
+2023-12-21 12:40:57 - User Deleted by xavi
+2023-12-21 12:41:03 - Copia de la BD restaurada by xavi
+2023-12-21 12:42:11 - Copia de la BD restaurada by xavi
+2023-12-21 12:43:56 - Copia de la BD restaurada by xavi
+2023-12-21 13:08:09 - User lala Created  by xavi
+2023-12-21 13:08:35 - User lolo Created  by xavi
+2023-12-21 13:08:41 - Copia de la BD realitzada by xavi
+2023-12-21 13:09:22 - Copia de la BD restaurada by xavi
+2023-12-21 13:09:27 - User Deleted by xavi
+2023-12-21 13:09:29 - User Deleted by xavi
+2023-12-21 13:09:38 - Copia de la BD restaurada by xavi
+2023-12-21 13:15:12 - User popo Created  by xavi
+2023-12-21 13:15:29 - User pepe Created  by xavi
+2023-12-21 13:15:32 - Error al intentar crear una copia de la BD by xavi
+2023-12-21 13:16:56 - Error al intentar crear una copia de la BD by xavi
+2023-12-21 13:17:06 - Copia de la BD realitzada by xavi
+2023-12-21 13:19:43 - Error al intentar crear una copia de la BD by xavi
+2023-12-21 13:20:10 - Copia de la BD realitzada by xavi
+2023-12-21 13:24:57 - Copia de la BD realizada en formato JSON by xavi
+2023-12-21 13:27:10 - Copia de la BD restaurada by xavi
+2023-12-21 13:27:14 - User Deleted by xavi
+2023-12-21 13:27:16 - User Deleted by xavi
+2023-12-21 13:27:20 - Copia de la BD restaurada by xavi
+2023-12-22 09:04:22 - Session Iniciada by xavi
+2023-12-22 09:33:06 - Copia de la BD realitzada by xavi
+2023-12-22 09:44:29 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 09:54:24 - User klmjkl Created  by xavi
+2023-12-22 09:54:32 - Copia de la BD realizada by xavi
+2023-12-22 09:55:28 - Copia de la BD restaurada by xavi
+2023-12-22 09:55:34 - User Deleted by xavi
+2023-12-22 09:55:39 - Copia de la BD restaurada by xavi
+2023-12-22 09:59:23 - Copia de la BD restaurada by xavi
+2023-12-22 10:02:23 - Copia de la BD restaurada by xavi
+2023-12-22 10:13:52 - Session Iniciada by xavi
+2023-12-22 10:20:59 - Copia de la BD restaurada by xavi
+2023-12-22 10:22:08 - Copia de la BD restaurada by xavi
+2023-12-22 10:47:53 - Session Iniciada by xavi
+2023-12-22 10:48:05 - User kijwelkjflwekjflkwtj Created  by xavi
+2023-12-22 10:48:08 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 10:48:34 - Copia de la BD realitzada by xavi
+2023-12-22 10:48:39 - User Deleted by xavi
+2023-12-22 11:02:05 - User fxdgg Created  by xavi
+2023-12-22 11:02:21 - User aerfwre Created  by xavi
+2023-12-22 11:02:24 - Copia de la BD realitzada by xavi
+2023-12-22 11:04:41 - User jkilkl Created  by xavi
+2023-12-22 11:04:43 - Copia de la BD realitzada by xavi
+2023-12-22 11:05:54 - Copia de la BD realitzada by xavi
+2023-12-22 11:07:23 - Copia de la BD realitzada by xavi
+2023-12-22 11:08:30 - Copia de la BD realitzada by xavi
+2023-12-22 11:08:55 - Copia de la BD realitzada by xavi
+2023-12-22 11:09:02 - Copia de la BD realitzada by xavi
+2023-12-22 11:09:08 - Copia de la BD realitzada by xavi
+2023-12-22 11:11:45 - Copia de la BD realitzada by xavi
+2023-12-22 11:14:23 - Session Iniciada by xavi
+2023-12-22 11:14:27 - Copia de la BD realizada by xavi
+2023-12-22 11:15:25 - Copia de la BD realitzada by xavi
+2023-12-22 11:18:18 - Copia de la BD realitzada by xavi
+2023-12-22 11:24:57 - Copia de la BD realitzada by xavi
+2023-12-22 11:27:15 - Copia de la BD realitzada by xavi
+2023-12-22 11:30:13 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 11:30:13 - Copia de la BD realizada by xavi
+2023-12-22 11:31:35 - Copia de la BD realizada by xavi
+2023-12-22 11:34:00 - Copia de la BD realizada by xavi
+2023-12-22 11:34:27 - Copia de la BD realitzada by xavi
+2023-12-22 11:36:39 - Copia de la BD realitzada by xavi
+2023-12-22 11:55:46 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 12:00:01 - Copia de la BD realitzada by xavi
+2023-12-22 12:03:20 - Copia de la BD realitzada by xavi
+2023-12-22 12:16:29 - Session Iniciada by xavi
+2023-12-22 12:16:38 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 12:18:51 - Copia de la BD realitzada by xavi
+2023-12-22 12:18:54 - Copia de la BD realitzada by xavi
+2023-12-22 12:41:09 - Copia de la BD realitzada by xavi
+2023-12-22 12:41:19 - Copia de la BD realitzada by xavi
+2023-12-22 12:42:37 - Copia de la BD realitzada by xavi
+2023-12-22 12:53:39 - Error al intentar crear una copia de la BD by xavi
+2023-12-22 12:54:49 - Copia de la BD realizada by xavi
+2023-12-22 12:55:25 - User Deleted by xavi
+2023-12-22 12:55:26 - User Deleted by xavi
