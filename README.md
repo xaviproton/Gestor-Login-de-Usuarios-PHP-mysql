@@ -1,4 +1,4 @@
-# Gestor de Usuarios PHP
+# Gestor con login de Usuarios PHP
 
 <h1>Aplicación desarrollada con PHP y JavaScript con BD  mysql para ingresar usuarios</h1>
 
